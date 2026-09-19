@@ -1,2 +1,1 @@
-this is first txt
-ui
+this is first txt in git -okk!
